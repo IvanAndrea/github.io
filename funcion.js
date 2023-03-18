@@ -1,5 +1,5 @@
 
-document.getElementById ("cambio color").onclick = function (){
-    document.getElementById("cambio color").style.backgroundColor= "red"
+document.getElementById ("cambio color").onclick = function(){
+    document.getElementById("cambio color").style.backgroundColor = "red"
 }
 
